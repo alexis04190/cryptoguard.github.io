@@ -1,0 +1,3 @@
+scripts.js
+// Ce fichier peut contenir des scripts pour gérer les alertes et autres fonctionnalités interactives
+console.log("CryptoGuard - Ready!");
